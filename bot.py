@@ -32,8 +32,8 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.dispatcher.filters import Text
 
 # ---------------------- CONFIG ----------------------
-TOKEN = os.getenv("BOT_TOKEN", "8014856155:AAFHo04NNiHJM7mr6guhW-9VmPyPpAzxsoc")
-ADMIN_ID = int(os.getenv("ADMIN_ID", "7838925338"))  # replace with your Telegram user ID
+TOKEN = os.getenv("BOT_TOKEN", "PUT_YOUR_TOKEN")
+ADMIN_ID = int(os.getenv("ADMIN_ID", "PUT_YOUR_OWNER_ID)  # replace with your Telegram user ID
 DB_PATH = os.getenv("DB_PATH", "bot.db")
 
 # ---------------------- DB LAYER ----------------------
