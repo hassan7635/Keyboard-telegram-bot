@@ -25,8 +25,8 @@ This project is a **fast, menu-driven Telegram bot** built with **Aiogram** and 
 ## 🚀 Installation
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/hassan7635/Keyboard-telegram-bot.git
+cd Keyboard-telegram-bot
 pip install aiogram==2.*
 ```
 
